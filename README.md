@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="GIF" src="./assets/github_intro.gif" width="45%" height="70%" style="margin:0 50px;"> 
+<img align="right" alt="GIF" src="./assets/github_intro.gif" width="40%" height="70%" style="margin:0 50px;"> 
 
 
 <h3 style="left: 50px; position:relative;">About me:</h3>
