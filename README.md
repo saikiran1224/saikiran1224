@@ -23,8 +23,10 @@
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
 <a href="https://twitter.com/SaikiranKoppar1"><img src="https://img.shields.io/twitter/follow/SaikiranKoppar1?label=Twitter&logo=twitter&style=for-the-badge&color=blue" align="left" title="Twitter - Saikiran Kopparthi" alt="Twitter" height="28px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-<a href="https://www.linkedin.com/in/sai-kiran-kopparthi-2204a518a/"><img align="left" title="LinkedIn - Saikiran Kopparthi" alt="LinkedIn" height="28px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
-<a href="mailto:knvrs.saikiran@gmail.com"><img align="left" title="Mail - Saikiran Kopparthi" alt="Mail" height="28px" src="https://image.flaticon.com/icons/png/512/281/281769.png" /></a>
+
+<a href="https://www.linkedin.com/in/sai-kiran-kopparthi-2204a518a/"><img align="left" title="LinkedIn - Saikiran Kopparthi" alt="LinkedIn" height="30px" src="https://img.icons8.com/color/344/linkedin.png" /></a>
+
+<a href="mailto:knvrs.saikiran@gmail.com"><img align="left" title="Mail - Saikiran Kopparthi" alt="Mail" height="28px" src="https://img.icons8.com/color/344/gmail-new.png" /></a>
 
 <br>
 <br>
