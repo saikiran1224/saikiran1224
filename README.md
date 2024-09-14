@@ -30,8 +30,7 @@
 
 <br>
 <br>
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=saikiran1224&show_icons=true&theme=tokyonight" 
-/>
+
+![saikiran1224's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikiran1224&theme=react&hide_border=true)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saikiran1224&label=visitors&color=blue&style=flat" alt="saikiran1224" /> </p>
