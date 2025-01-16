@@ -31,6 +31,8 @@
 <br>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saikiran1224)](https://git.io/streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=saikiran1224&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saikiran1224&label=visitors&color=blue&style=flat" alt="saikiran1224" /> </p>
