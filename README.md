@@ -28,9 +28,16 @@
 <br>
 <br>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=saikiran1224&theme=dark&hide_border=false" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=saikiran1224&theme=gotham)](https://git.io/streak-stats)
+
+<br>
+<br>
+
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikiran1224&show_icons=true&theme=gotham)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saikiran1224&no-frame=false&no-bg=false&margin-w=4)
 
 <br>
 <br>
