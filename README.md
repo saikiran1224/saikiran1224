@@ -24,22 +24,3 @@
 <a href="https://www.linkedin.com/in/sai-kiran-kopparthi-2204a518a/"><img align="left" title="LinkedIn - Saikiran Kopparthi" alt="LinkedIn" height="30px" src="https://img.icons8.com/color/344/linkedin.png" /></a>
 
 <a href="mailto:knvrs.saikiran@gmail.com"><img align="left" title="Mail - Saikiran Kopparthi" alt="Mail" height="28px" src="https://img.icons8.com/color/344/gmail-new.png" /></a>
-
-<br>
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=saikiran1224&theme=gotham)](https://git.io/streak-stats)
-
-<br>
-<br>
-
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikiran1224&show_icons=true&theme=gotham)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saikiran1224&no-frame=false&no-bg=false&margin-w=4)
-
-<br>
-<br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saikiran1224&label=visitors&color=blue&style=flat" alt="saikiran1224" /> </p>
